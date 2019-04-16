@@ -1,0 +1,14 @@
+C:\Users\Alp Eren\source\repos\ECommerceCompany\ECommerceCompany.ECommerce.Entity\bin\Debug\netcoreapp2.2\ECommerceCompany.ECommerce.Entity.deps.json
+C:\Users\Alp Eren\source\repos\ECommerceCompany\ECommerceCompany.ECommerce.Entity\bin\Debug\netcoreapp2.2\ECommerceCompany.ECommerce.Entity.dll
+C:\Users\Alp Eren\source\repos\ECommerceCompany\ECommerceCompany.ECommerce.Entity\bin\Debug\netcoreapp2.2\ECommerceCompany.ECommerce.Entity.pdb
+C:\Users\Alp Eren\source\repos\ECommerceCompany\ECommerceCompany.ECommerce.Entity\bin\Debug\netcoreapp2.2\ECommerceCompany.Core.dll
+C:\Users\Alp Eren\source\repos\ECommerceCompany\ECommerceCompany.ECommerce.Entity\bin\Debug\netcoreapp2.2\ECommerceCompany.Core.pdb
+C:\Users\Alp Eren\source\repos\ECommerceCompany\ECommerceCompany.ECommerce.Entity\obj\Debug\netcoreapp2.2\ECommerceCompany.ECommerce.Entity.csprojAssemblyReference.cache
+C:\Users\Alp Eren\source\repos\ECommerceCompany\ECommerceCompany.ECommerce.Entity\obj\Debug\netcoreapp2.2\ECommerceCompany.ECommerce.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Alp Eren\source\repos\ECommerceCompany\ECommerceCompany.ECommerce.Entity\obj\Debug\netcoreapp2.2\ECommerceCompany.ECommerce.Entity.AssemblyInfoInputs.cache
+C:\Users\Alp Eren\source\repos\ECommerceCompany\ECommerceCompany.ECommerce.Entity\obj\Debug\netcoreapp2.2\ECommerceCompany.ECommerce.Entity.AssemblyInfo.cs
+C:\Users\Alp Eren\source\repos\ECommerceCompany\ECommerceCompany.ECommerce.Entity\obj\Debug\netcoreapp2.2\ECommerceCompany.ECommerce.Entity.csproj.CopyComplete
+C:\Users\Alp Eren\source\repos\ECommerceCompany\ECommerceCompany.ECommerce.Entity\obj\Debug\netcoreapp2.2\ECommerceCompany.ECommerce.Entity.dll
+C:\Users\Alp Eren\source\repos\ECommerceCompany\ECommerceCompany.ECommerce.Entity\obj\Debug\netcoreapp2.2\ECommerceCompany.ECommerce.Entity.pdb
+C:\Users\Alp Eren\source\repos\ECommerceCompany\ECommerceCompany.ECommerce.Entity\bin\Debug\netcoreapp2.2\Newtonsoft.Json.dll
+C:\Users\Alp Eren\source\repos\ECommerceCompany\ECommerceCompany.ECommerce.Entity\bin\Debug\netcoreapp2.2\Newtonsoft.Json.xml

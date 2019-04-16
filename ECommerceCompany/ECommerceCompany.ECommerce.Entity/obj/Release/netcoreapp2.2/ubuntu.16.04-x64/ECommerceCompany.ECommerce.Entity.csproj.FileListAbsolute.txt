@@ -1,0 +1,14 @@
+C:\Users\Alp Eren\source\repos\ECommerceCompany\ECommerceCompany.ECommerce.Entity\bin\Release\netcoreapp2.2\ubuntu.16.04-x64\ECommerceCompany.ECommerce.Entity.deps.json
+C:\Users\Alp Eren\source\repos\ECommerceCompany\ECommerceCompany.ECommerce.Entity\bin\Release\netcoreapp2.2\ubuntu.16.04-x64\ECommerceCompany.ECommerce.Entity.dll
+C:\Users\Alp Eren\source\repos\ECommerceCompany\ECommerceCompany.ECommerce.Entity\bin\Release\netcoreapp2.2\ubuntu.16.04-x64\ECommerceCompany.ECommerce.Entity.pdb
+C:\Users\Alp Eren\source\repos\ECommerceCompany\ECommerceCompany.ECommerce.Entity\bin\Release\netcoreapp2.2\ubuntu.16.04-x64\ECommerceCompany.Core.dll
+C:\Users\Alp Eren\source\repos\ECommerceCompany\ECommerceCompany.ECommerce.Entity\bin\Release\netcoreapp2.2\ubuntu.16.04-x64\Newtonsoft.Json.dll
+C:\Users\Alp Eren\source\repos\ECommerceCompany\ECommerceCompany.ECommerce.Entity\bin\Release\netcoreapp2.2\ubuntu.16.04-x64\ECommerceCompany.Core.pdb
+C:\Users\Alp Eren\source\repos\ECommerceCompany\ECommerceCompany.ECommerce.Entity\bin\Release\netcoreapp2.2\ubuntu.16.04-x64\Newtonsoft.Json.xml
+C:\Users\Alp Eren\source\repos\ECommerceCompany\ECommerceCompany.ECommerce.Entity\obj\Release\netcoreapp2.2\ubuntu.16.04-x64\ECommerceCompany.ECommerce.Entity.csprojAssemblyReference.cache
+C:\Users\Alp Eren\source\repos\ECommerceCompany\ECommerceCompany.ECommerce.Entity\obj\Release\netcoreapp2.2\ubuntu.16.04-x64\ECommerceCompany.ECommerce.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Alp Eren\source\repos\ECommerceCompany\ECommerceCompany.ECommerce.Entity\obj\Release\netcoreapp2.2\ubuntu.16.04-x64\ECommerceCompany.ECommerce.Entity.AssemblyInfoInputs.cache
+C:\Users\Alp Eren\source\repos\ECommerceCompany\ECommerceCompany.ECommerce.Entity\obj\Release\netcoreapp2.2\ubuntu.16.04-x64\ECommerceCompany.ECommerce.Entity.AssemblyInfo.cs
+C:\Users\Alp Eren\source\repos\ECommerceCompany\ECommerceCompany.ECommerce.Entity\obj\Release\netcoreapp2.2\ubuntu.16.04-x64\ECommerceCompany.ECommerce.Entity.csproj.CopyComplete
+C:\Users\Alp Eren\source\repos\ECommerceCompany\ECommerceCompany.ECommerce.Entity\obj\Release\netcoreapp2.2\ubuntu.16.04-x64\ECommerceCompany.ECommerce.Entity.dll
+C:\Users\Alp Eren\source\repos\ECommerceCompany\ECommerceCompany.ECommerce.Entity\obj\Release\netcoreapp2.2\ubuntu.16.04-x64\ECommerceCompany.ECommerce.Entity.pdb

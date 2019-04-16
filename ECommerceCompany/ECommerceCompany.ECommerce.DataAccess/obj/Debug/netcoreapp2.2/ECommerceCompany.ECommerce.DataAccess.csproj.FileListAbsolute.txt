@@ -1,0 +1,16 @@
+C:\Users\Alp Eren\source\repos\ECommerceCompany\ECommerceCompany.ECommerce.DataAccess\bin\Debug\netcoreapp2.2\ECommerceCompany.ECommerce.DataAccess.deps.json
+C:\Users\Alp Eren\source\repos\ECommerceCompany\ECommerceCompany.ECommerce.DataAccess\bin\Debug\netcoreapp2.2\ECommerceCompany.ECommerce.DataAccess.dll
+C:\Users\Alp Eren\source\repos\ECommerceCompany\ECommerceCompany.ECommerce.DataAccess\bin\Debug\netcoreapp2.2\ECommerceCompany.ECommerce.DataAccess.pdb
+C:\Users\Alp Eren\source\repos\ECommerceCompany\ECommerceCompany.ECommerce.DataAccess\bin\Debug\netcoreapp2.2\ECommerceCompany.Core.dll
+C:\Users\Alp Eren\source\repos\ECommerceCompany\ECommerceCompany.ECommerce.DataAccess\bin\Debug\netcoreapp2.2\ECommerceCompany.ECommerce.Entity.dll
+C:\Users\Alp Eren\source\repos\ECommerceCompany\ECommerceCompany.ECommerce.DataAccess\bin\Debug\netcoreapp2.2\ECommerceCompany.Core.pdb
+C:\Users\Alp Eren\source\repos\ECommerceCompany\ECommerceCompany.ECommerce.DataAccess\bin\Debug\netcoreapp2.2\ECommerceCompany.ECommerce.Entity.pdb
+C:\Users\Alp Eren\source\repos\ECommerceCompany\ECommerceCompany.ECommerce.DataAccess\obj\Debug\netcoreapp2.2\ECommerceCompany.ECommerce.DataAccess.csprojAssemblyReference.cache
+C:\Users\Alp Eren\source\repos\ECommerceCompany\ECommerceCompany.ECommerce.DataAccess\obj\Debug\netcoreapp2.2\ECommerceCompany.ECommerce.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Alp Eren\source\repos\ECommerceCompany\ECommerceCompany.ECommerce.DataAccess\obj\Debug\netcoreapp2.2\ECommerceCompany.ECommerce.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Alp Eren\source\repos\ECommerceCompany\ECommerceCompany.ECommerce.DataAccess\obj\Debug\netcoreapp2.2\ECommerceCompany.ECommerce.DataAccess.AssemblyInfo.cs
+C:\Users\Alp Eren\source\repos\ECommerceCompany\ECommerceCompany.ECommerce.DataAccess\obj\Debug\netcoreapp2.2\ECommerceCompany.ECommerce.DataAccess.csproj.CopyComplete
+C:\Users\Alp Eren\source\repos\ECommerceCompany\ECommerceCompany.ECommerce.DataAccess\obj\Debug\netcoreapp2.2\ECommerceCompany.ECommerce.DataAccess.dll
+C:\Users\Alp Eren\source\repos\ECommerceCompany\ECommerceCompany.ECommerce.DataAccess\obj\Debug\netcoreapp2.2\ECommerceCompany.ECommerce.DataAccess.pdb
+C:\Users\Alp Eren\source\repos\ECommerceCompany\ECommerceCompany.ECommerce.DataAccess\bin\Debug\netcoreapp2.2\Newtonsoft.Json.dll
+C:\Users\Alp Eren\source\repos\ECommerceCompany\ECommerceCompany.ECommerce.DataAccess\bin\Debug\netcoreapp2.2\Newtonsoft.Json.xml
